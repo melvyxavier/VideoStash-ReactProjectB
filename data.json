@@ -1,0 +1,158 @@
+{
+  "videos": [
+    {
+      "id": "KIFC607",
+      "title": "Diligent morning routine",
+      "coverImage": "https://i.postimg.cc/CM2FRQ0N/Woodland-Fairy-Birthday-Party-Inspired-By-This-1.jpg",
+      "videoUrl": "https://www.youtube.com/embed/PbaW0LXemtY?autoplay=1"
+    },
+    {
+      "id": "kAQWbUs",
+      "title": "Cabbage Recipes",
+      "coverImage": "https://i.postimg.cc/bN8jScM1/Healthy-Lifestyle.jpg",
+      "videoUrl": "https://www.youtube.com/embed/OUQXbdqfQRQ?autoplay=1"
+    },
+    {
+      "id": "En61TZq",
+      "title": " aesthetic & chill vlog",
+      "coverImage": "https://i.postimg.cc/kMR5vmfZ/Yeasty-Overnight-Waffles.jpg",
+      "videoUrl": "https://www.youtube.com/embed/yza_CkHlczQ?autoplay=1"
+    },
+    {
+      "id": "1JDjlu8",
+      "title": "SUNDAY RESET",
+      "coverImage": "https://i.postimg.cc/0NCSxqLZ/Nutritious-Lunch-Idea.jpg",
+      "videoUrl": "https://www.youtube.com/embed/lLjO10HKZV4?autoplay=1"
+    },
+    {
+      "id": "etqNvx2",
+      "title": "RELAXING SHOWER",
+      "coverImage": "https://i.postimg.cc/RCpcN4qD/bubble-bath.jpg",
+      "videoUrl": "https://www.youtube.com/embed/qQgXs-C3lAE?autoplay=1"
+    },
+    {
+      "id": "9Vggbug",
+      "title": "catching up on lectures",
+      "coverImage": "https://i.postimg.cc/wBRrb0Z6/Reading-aesthetic.jpg",
+      "videoUrl": "https://www.youtube.com/embed/iTB5TFhPKIQ?autoplay=1"
+    },
+    {
+      "id": "LQVn14-",
+      "title": "Living Alone Diaries",
+      "coverImage": "https://i.postimg.cc/w3KMLWC7/bdaa74aa-f591-4747-8f44-8f081df42e0d.jpg",
+      "videoUrl": "https://www.youtube.com/embed/Zb8L0YGDzQI?autoplay=1"
+    },
+    {
+      "id": "oqS8kan",
+      "title": "Healthy day",
+      "coverImage": "https://i.postimg.cc/vHJM8xyH/it-girl-vibes-via-katepope-on-IG.jpg",
+      "videoUrl": "https://www.youtube.com/embed/G8Fq1rL2nm0?autoplay=1"
+    },
+    {
+      "id": "losejvl1",
+      "title": "Fitness vlog",
+      "coverImage": "https://i.postimg.cc/wx5bRtDj/gym-girlies-aesthetic.jpg",
+      "videoUrl": "https://www.youtube.com/embed/lWGXErUweKY?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Healthy LifeStyle",
+      "videos": [
+        {
+          "id": "9Vggbug",
+          "title": "catching up on lectures",
+          "coverImage": "https://i.postimg.cc/wBRrb0Z6/Reading-aesthetic.jpg",
+          "videoUrl": "https://www.youtube.com/embed/iTB5TFhPKIQ?autoplay=1"
+        },
+        {
+          "id": "oqS8kan",
+          "title": "Healthy day",
+          "coverImage": "https://i.postimg.cc/vHJM8xyH/it-girl-vibes-via-katepope-on-IG.jpg",
+          "videoUrl": "https://www.youtube.com/embed/G8Fq1rL2nm0?autoplay=1"
+        },
+        {
+          "id": "etqNvx2",
+          "title": "RELAXING SHOWER",
+          "coverImage": "https://i.postimg.cc/RCpcN4qD/bubble-bath.jpg",
+          "videoUrl": "https://www.youtube.com/embed/qQgXs-C3lAE?autoplay=1"
+        },
+        {
+          "id": "LQVn14-",
+          "title": "Living Alone Diaries",
+          "coverImage": "https://i.postimg.cc/w3KMLWC7/bdaa74aa-f591-4747-8f44-8f081df42e0d.jpg",
+          "videoUrl": "https://www.youtube.com/embed/Zb8L0YGDzQI?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cooking",
+      "videos": [
+        {
+          "id": "En61TZq",
+          "title": " aesthetic & chill vlog",
+          "coverImage": "https://i.postimg.cc/kMR5vmfZ/Yeasty-Overnight-Waffles.jpg",
+          "videoUrl": "https://www.youtube.com/embed/yza_CkHlczQ?autoplay=1"
+        },
+        {
+          "id": "KIFC607",
+          "title": "Diligent morning routine",
+          "coverImage": "https://i.postimg.cc/CM2FRQ0N/Woodland-Fairy-Birthday-Party-Inspired-By-This-1.jpg",
+          "videoUrl": "https://www.youtube.com/embed/PbaW0LXemtY?autoplay=1"
+        },
+        {
+          "id": "kAQWbUs",
+          "title": "Cabbage Recipes",
+          "coverImage": "https://i.postimg.cc/bN8jScM1/Healthy-Lifestyle.jpg",
+          "videoUrl": "https://www.youtube.com/embed/OUQXbdqfQRQ?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lozhrl3s",
+      "title": "Fitness",
+      "videos": [
+        {
+          "id": "losejvl1",
+          "title": "Fitness vlog",
+          "coverImage": "https://i.postimg.cc/wx5bRtDj/gym-girlies-aesthetic.jpg",
+          "videoUrl": "https://www.youtube.com/embed/lWGXErUweKY?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lozksdtb",
+      "time": "11/15/2023 3:14 PM",
+      "title": "Diligent morning routine",
+      "videoUrl": "https://www.youtube.com/embed/PbaW0LXemtY?autoplay=1"
+    },
+    {
+      "id": "lozksowc",
+      "time": "11/15/2023 3:14 PM",
+      "title": "Fitness vlog",
+      "videoUrl": "https://www.youtube.com/embed/lWGXErUweKY?autoplay=1"
+    },
+    {
+      "id": "lozkstg4",
+      "time": "11/15/2023 3:14 PM",
+      "title": "Healthy day",
+      "videoUrl": "https://www.youtube.com/embed/G8Fq1rL2nm0?autoplay=1"
+    },
+    {
+      "id": "lozkt3xu",
+      "time": "11/15/2023 3:14 PM",
+      "title": "Fitness vlog",
+      "videoUrl": "https://www.youtube.com/embed/lWGXErUweKY?autoplay=1"
+    },
+    {
+      "id": "lpdsfz9j",
+      "time": "11/25/2023 1:57 PM",
+      "title": "catching up on lectures",
+      "videoUrl": "https://www.youtube.com/embed/iTB5TFhPKIQ?autoplay=1"
+    }
+  ]
+}
